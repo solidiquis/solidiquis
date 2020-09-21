@@ -1,4 +1,5 @@
 ![me](https://github.com/solidiquis/solidiquis/blob/master/assets/Desktop.png)
 
-[![Benji's github stats](https://github-readme-stats.vercel.app/api?username=solidiquis&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Benji's github stats](https://github-readme-stats.vercel.app/api?username=solidiquis&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solidiquis)](https://github.com/anuraghazra/github-readme-stats)
+
 
