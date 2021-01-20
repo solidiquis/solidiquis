@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="75%" src="https://github.com/solidiquis/solidiquis/blob/master/assets/setup_3.png?raw=true">
+  <img src="https://raw.githubusercontent.com/solidiquis/dotfiles/master/misc/Desktop_1.png">
 </p>
 
 ---
 
 <p align="center">
 <a href="#">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=solidiquis&count_private=true&show_icons=true&theme=dark"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=solidiquis&count_private=true&show_icons=true&theme=radical"/>
 </a>
 </p>
