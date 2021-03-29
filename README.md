@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="75%" src="https://github.com/solidiquis/solidiquis/blob/master/assets/setup_2.png?raw=true">
+  <img width="75%" src="https://raw.githubusercontent.com/solidiquis/dotfiles/master/misc/Desktop_1.png">
 </p>
 
 ---
