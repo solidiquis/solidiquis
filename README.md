@@ -10,7 +10,7 @@ Something that I am particularly passionate about is autodidacticism (aka self-t
 
 **Languages I'm proficient with**: Ruby | Python | Go | Rust | JavaScript + TypeScript + CoffeeScript
 
-**Languages I wish I were better at**: Bash | GLSL | Crystal
+**Languages I wish I were better at**: Bash | GLSL | Crystal | VimScript
 
 **Currently reading**: <a href="https://learnopengl.com/">Learn OpenGL</a> | <a href="https://www.amazon.com/Way-Kings-Brandon-Sanderson/dp/0765365278">The Way of Kings</a> | <a href="https://www.amazon.com/Practical-System-Programming-Rust-Developers/dp/1800560966"> Practical Systems Programming for Rust Developers</a>
 
