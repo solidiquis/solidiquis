@@ -33,7 +33,7 @@ module Benji
   FAVORITE_GUITAR = "ESP LTD EC-1000"
   FAVORITE_AMPLIFIER = "Anything by Blackstar"
   
-  CURRENT_SQUAT_PR = 365 // lbs
+  CURRENT_SQUAT_PR = 365 # lbs
   
   PUBLICATIONS = %w[
     https://pubmed.ncbi.nlm.nih.gov/27696504/
