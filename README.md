@@ -15,6 +15,7 @@ module Benji
    ]
   IMPERATIVE_LANGUAGES = %i[python ruby bash javascript coffeescript typescript go rust glsl]
   DECLARATIVE_LANGUAGES = %i[html css scss sql]
+  GRAPHICS_ENGINES = %i[opengl webgl]
   
   FAVORITE_SHOWS = %i[
     breaking_bad true_detective_seasons_1
