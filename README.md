@@ -19,6 +19,7 @@ module Benji
   DECLARATIVE_LANGUAGES = %i[html css scss sql]
   GRAPHICS_ENGINES = %i[opengl webgl]
   
+  FAVORITE_GAMES = %i[demons_souls dark_souls_i_ii_iii bloodborne sekiro god_of_war ffvii ffx]
   FAVORITE_SHOWS = %i[
     breaking_bad true_detective_seasons_1
     game_of_thrones_except_last_season twilight_zone_1959 black_mirror
