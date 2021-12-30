@@ -21,7 +21,8 @@ module Benji
   
   FAVORITE_GAMES = %i[
     demons_souls dark_souls_i_ii_iii bloodborne sekiro
-    god_of_war ffvii ffx elder_scrolls_oblivion
+    god_of_war ffvii ffx elder_scrolls_oblivion tenchu_wrath_of_heaven
+    metal_gear_solid megaman_x street_fighter
   ]
   FAVORITE_SHOWS = %i[
     breaking_bad true_detective_seasons_1
