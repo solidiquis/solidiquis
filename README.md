@@ -9,7 +9,7 @@ module Benji
   OCCUPATION = "Full-stack Software Developer"
   CONTACT = "benjamin.van.nguyen@gmail.com"
   PROGRAMMING_SINCE = Time.new 2018, 11, 18
-  TERMINAL_EMULATOR = "Alacritty"
+  TERMINAL_EMULATOR = "Alacritty + TMUX"
   TEXT_EDITOR = "Vim"
   PROGRAMMING_INTERESTS = %i[
     graphics unix_systems terminal_emulators
