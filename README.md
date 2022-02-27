@@ -10,12 +10,12 @@ module Benji
   CONTACT = "benjamin.van.nguyen@gmail.com"
   PROGRAMMING_SINCE = Time.new 2018, 11, 18
   TERMINAL_EMULATOR = "Alacritty + TMUX"
-  TEXT_EDITOR = "Vim"
+  TEXT_EDITOR = "NeoVim"
   PROGRAMMING_INTERESTS = %i[
     graphics unix_systems terminal_emulators
     concurrency parallelism web_development
    ]
-  IMPERATIVE_LANGUAGES = %i[python ruby bash javascript coffeescript typescript go rust glsl]
+  IMPERATIVE_LANGUAGES = %i[python ruby bash {java, type, coffee}script lua vimscript go rust glsl]
   DECLARATIVE_LANGUAGES = %i[html css scss sql]
   GRAPHICS_ENGINES = %i[opengl webgl]
   
