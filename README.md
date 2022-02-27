@@ -20,7 +20,7 @@ module Benji
   GRAPHICS_ENGINES = %i[opengl webgl]
   
   FAVORITE_GAMES = %i[
-    demons_souls dark_souls_i_ii_iii bloodborne sekiro
+    demons_souls dark_souls_i_ii_iii bloodborne sekiro elden_ring
     god_of_war ffvii ffx elder_scrolls_oblivion tenchu_wrath_of_heaven
     metal_gear_solid megaman_x street_fighter
   ]
