@@ -1,4 +1,4 @@
-Solidiquis: 💻 | 🎸 | 💀 |  🎮 | 🏋 | 🧙 | 🧋 | 📺
+Solidiquis: 💻 | 🎸 | 💀 | 🎮 | 🏋 | 🧙 | 🧋 | 📺 | 🎃 | 📚
 --
 [Instagram](https://www.instagram.com/benji_man_van/) | [Linkedin](https://www.linkedin.com/in/nguyen-van-benjamin/)
 
