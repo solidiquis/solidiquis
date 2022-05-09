@@ -11,9 +11,5 @@ module Benji
   PROGRAMMING_SINCE = Time.new 2018, 11, 18
   TERMINAL_EMULATOR = "Alacritty + TMUX"
   TEXT_EDITOR = "NeoVim"
-  PROGRAMMING_INTERESTS = %i[graphics unix_systems terminal_emulators concurrency_and_parallelism web_development]
-  IMPERATIVE_LANGUAGES = %i[rust go lua ruby python javascript typescript coffeescript bash vimscript glsl]
-  DECLARATIVE_LANGUAGES = %i[html css scss sql]
-  GRAPHICS_ENGINES = %i[opengl webgl]
 end
 ```
