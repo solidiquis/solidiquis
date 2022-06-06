@@ -2,7 +2,7 @@ Solidiquis: 💻 | 🎸 | 💀 | 🎮 | 🏋 | 🧙 | 🧋 | 📺 | 🎃 | 📚
 --
 [Instagram](https://www.instagram.com/benji_man_van/) | [Linkedin](https://www.linkedin.com/in/nguyen-van-benjamin/)
 
-`Med-school dropout -> self-taught programmer `
+`Med-school dropout -> self-taught programmer -> employed programmer`
 ```ruby
 # frozen_string_literal: true
 module Benji
