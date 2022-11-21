@@ -6,7 +6,7 @@ Solidiquis: 💻 | 🎸 | 💀 | 🎮 | 🏋 | 🧙 | 🧋 | 📺 | 🎃 | 📚
 ```ruby
 # frozen_string_literal: true
 module Benji
-  OCCUPATION = "Full-stack Software Developer"
+  OCCUPATION = "Director of Engineering @ Wefunder"
   CONTACT = "benjamin.van.nguyen@gmail.com"
   PROGRAMMING_SINCE = Time.new 2018, 11, 18
   TERMINAL_EMULATOR = "Alacritty + TMUX"
